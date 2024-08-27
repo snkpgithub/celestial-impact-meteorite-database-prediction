@@ -5,10 +5,15 @@ About the Dataset:
 The dataset, provided by The Meteoritical Society, includes details on over 45,000 meteorites that have struck Earth. This data includes location, mass, composition, and fall year. We have selected 7,000 rows for SQL operations, while the entire dataset is used for machine learning predictions.
 
 Team Members:
+
 Shashank Pandey
+
 R.Sai Dinesh
+
 Pratiksha S.J
+
 Vinay C.S.
+
 Motivation:
 Exploring meteorite landings and classifying them through machine learning brings exciting opportunities for scientific discovery. Our project organizes this data into structured tables and applies machine learning algorithms to predict meteorite impacts, differentiating between meteorites that were observed falling ("Fell") and those discovered post-impact ("Found").
 
